@@ -1,0 +1,1 @@
+  <footer data-role="footer" data-theme="b"><h1></h1></footer>
